@@ -20,10 +20,7 @@ To check more of my work:
 
 Social media/News Cards or Tiles. Made by Canva.
 
-- [News Card Image 01](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_181659_0000.png)
-- [News Card Image 02](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/Black%20%26%20White%20Caption%20Notification%20Quotes%20Instagram%20Post_20260422_191454_0000.png)
-- [News Card Image 03](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/ifeel80s%20Announces%20Indefinite%20Hiatus%20Following%20World%20Tour_20260422_195912_0000.png)
-- [News Card Video](https://github.com/ShanjidaMithila/Work-Samples/blob/Micro-News-Graphics/News-Cards/ifeel80s%20Announces%20Indefinite%20Hiatus%20Following%20World%20Tour_20260422_202150_0000.mp4)
+https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards
 
 ---
 
