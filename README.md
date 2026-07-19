@@ -7,9 +7,7 @@ Welcome to my creative portfolio! This repository showcases my diverse range of 
 ## 📱 Shorts/Reels
 
 Made for my own YouTube channel. Edited on CapCut and InShot.
-
 ### Visit this repository
-
 https://github.com/ShanjidaMithila/Work-Samples/tree/main/Shorts%20or%20Reels
 
 To check more of my work:
