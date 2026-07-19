@@ -15,7 +15,6 @@ https://github.com/ShanjidaMithila/Work-Samples/tree/main/Shorts%20or%20Reels
 To check more of my work:
 
  •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
-
 •https://youtube.com/@memethila?si=kpZtNUbWSOARxDTS
 
 ---
