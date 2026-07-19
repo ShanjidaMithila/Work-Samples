@@ -15,6 +15,13 @@ This collection represents a diverse range of creative skills including:
 
 Feel free to explore each section to view detailed examples of each project type.
 
+### Jump to section:
+<!-- The link -->
+Jump to my [Projects Section](#shorts/reels).
+
+<!-- The target location later in the file -->
+## Shorts/Reels
+
 ## 📱 Shorts/Reels
 
 Made for my own YouTube channel. Edited on CapCut and InShot.
