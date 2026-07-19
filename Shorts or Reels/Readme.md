@@ -1,6 +1,6 @@
 <H1> YouTube Shorts </H1>
 
-<H3> These are done for my Youtube channel. My channel is mostly based on Clash of Clans content now! </H3>
+<H4> These are done for my Youtube channel. My channel is mostly based on gaming content now! </H4>
 
 <H2> Clash of Clans Content: </H2>
 
