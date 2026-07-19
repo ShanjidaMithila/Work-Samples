@@ -13,7 +13,7 @@ This collection represents a diverse range of creative skills including:
 - Digital and print design
 - AI-assisted content curation
 
-#### Feel free to explore each section to view detailed examples and learn more about each project types below.
+##### Feel free to explore each section to view detailed examples and learn more about each project types below.
 
 ## 📱 Shorts/Reels
 
