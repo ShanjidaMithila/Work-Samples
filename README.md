@@ -22,7 +22,7 @@ To check more of my work:
 ## 🎨 Micro-News Graphics/News Cards
 
 Social media/News Cards or Tiles. Made by Canva.
-
+### Visit this repository
 https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards
 
 ---
