@@ -31,7 +31,8 @@ Made for my own YouTube channel. Edited on CapCut and InShot.
 
 Social media/News Cards or Tiles. Made by Canva.
 ### Visit this repository:
-https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 
 ---
 
