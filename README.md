@@ -85,6 +85,8 @@ Made for affiliate marketing.
 
 These are done for my YouTube channel.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Green%20Screen%20Effects"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ### To check more of my work:
 
 •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
