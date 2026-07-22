@@ -47,7 +47,7 @@ Instagram carousel samples. Done in Canva.
 ### Visit this repository:
 <div>
   <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel">
-    <img src="Button.png" alt="Clickable Button" width="50">
+    <img src="Button.png" alt="Clickable Button" width="80">
   </a>
 </div>
 
