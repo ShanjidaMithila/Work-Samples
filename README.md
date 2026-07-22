@@ -111,6 +111,8 @@ These were made for my own projects.
 
 These were made for my social media profiles.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Graphic%20Logo%20or%20Branding"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ---
 
 ## 🎵 Album Cover
