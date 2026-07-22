@@ -9,24 +9,17 @@
 *
 
 <H2> Clash of Clans Content: </H2>
-
 * https://youtu.be/Lhqit6lRROA?si=Ql8MtufsnEVO66y5
 * https://youtu.be/plRsN7oWelQ?si=MdHyCbSwd7gFCPiP
-
 * https://youtu.be/u_7YZn64x90?si=hPmXPFrR-XqoiGSA
-
 * https://youtube.com/shorts/uG_F6tIObO0?si=xd7o7jqlrcmaBbVF
-
 * https://youtube.com/shorts/FwfpHlsm364?si=yEpXo2LlHK3_-Dd5
-
 * https://youtube.com/shorts/YAQpdgvMe_I?si=5i83EyArem0rsDFa
-
 * https://youtube.com/shorts/qA_LqrRFydk?si=ihTd30td1guz_LaE
 
 <H2> Squad Busters Content: </H2>
 
 * https://youtu.be/nc4-e08aQNo?si=tIB29fNN0AttKJkC
-
 * https://youtube.com/shorts/oNkFhmdj25Q?si=TWRuQGjnTAGVbubD
 
 * https://youtube.com/shorts/qZEeiOLSq6c?si=20AhgZbD4PgJyuZD
