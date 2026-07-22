@@ -44,7 +44,7 @@ Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Vide
 ## 📲 Instagram Carousel
 
 Instagram carousel samples. Done in Canva.
-### Visit this repository: <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="Click_Me.png" alt="Repository Button" width="120" align="center"></a>
+### Visit this repository: <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="Click_Me.png" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
