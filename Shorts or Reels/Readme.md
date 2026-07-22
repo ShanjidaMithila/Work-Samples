@@ -1,8 +1,10 @@
-<H1> YouTube Shorts </H1>
+<H1> Video/Short/Reel Edits </H1>
 
 <H4> These are done for my Youtube channel. My channel is mostly based on gaming content now! </H4>
 
 <H2> Clash of Clans Content: </H2>
+
+https://youtu.be/plRsN7oWelQ?si=MdHyCbSwd7gFCPiP
 
 https://youtube.com/shorts/uG_F6tIObO0?si=xd7o7jqlrcmaBbVF
 
