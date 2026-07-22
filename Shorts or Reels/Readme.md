@@ -4,9 +4,9 @@
 
 <H2> Minecraft Content: </H2>
 
-*
-*
-*
+* https://youtu.be/ArGMjRkL8ec?si=T6jouxoliCpWmqrS
+* https://youtu.be/pJXE9-ci0Qs?si=OY3C8dud82jx1wy8
+* https://youtu.be/HoY3S_-lfXA?si=MJpxobZUn2-UGtlE
 
 <H2> Clash of Clans Content: </H2>
 
@@ -34,6 +34,8 @@
 
 <H2> Random/Funny Reel: </H2>
 
+* https://youtube.com/shorts/lG3gzj80Pj0?si=6fUTur6W5fjufAy5
+* https://youtube.com/shorts/CiUJgVtKte8?si=tFCqGeUTB9Bg8SiU
 * https://youtube.com/shorts/e_FUvQY2Me4?si=tyVxgIMyLwpZSxOQ
 * https://youtube.com/shorts/vxfhhD1w84Y?si=EbSRVAJlqYqdVqCz
 * https://youtube.com/shorts/XawWoVoUrcU?si=0a9TH6YaiWUivSXu
