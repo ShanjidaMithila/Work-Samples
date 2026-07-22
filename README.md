@@ -15,7 +15,7 @@ This collection represents a diverse range of creative skills including:
 
 #### Feel free to explore each section to view detailed examples and learn more about each project types below.
 
-## 📱 Shorts/Reels
+## 📱 Video/Shorts/Reel Edits
 
 Made for my own YouTube channel. Edited on CapCut and InShot.
 ### Visit this repository:
@@ -89,16 +89,6 @@ These are done for my YouTube channel.
 
 ### To check more of my work:
 
-•https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
-•https://youtube.com/@memethila?si=kpZtNUbWSOARxDTS
-
----
-
-## ✂️ Video/Shorts/Reel Edits
-
-These projects are of my own. Edited on several apps/softwares.
-### Visit this repository:
-### To check more of my work:
 •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
 •https://youtube.com/@memethila?si=kpZtNUbWSOARxDTS
 
