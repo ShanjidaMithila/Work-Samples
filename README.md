@@ -98,6 +98,8 @@ These are done for my YouTube channel.
 
 These were made for my own projects.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Logo%20or%20Branding%20Graphic%20Animation"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ### To check more of my work:
 
 •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
