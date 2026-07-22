@@ -19,7 +19,7 @@ This collection represents a diverse range of creative skills including:
 
 Made for my own YouTube channel. Edited on CapCut and InShot.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Shorts%20or%20Reels"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Shorts%20or%20Reels"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ### To check more of my work:
  •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
@@ -31,7 +31,7 @@ Made for my own YouTube channel. Edited on CapCut and InShot.
 
 Social media/News Cards or Tiles. Made by Canva.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8735bd2284029f/Micro-News%20Graphic%20Cards"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 
 ---
@@ -40,7 +40,7 @@ Social media/News Cards or Tiles. Made by Canva.
 
 Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Video Creator, ChatGPT, Sora AI, Kling AI, Leonardo AI, Adobe Firefly, Canva AI and CapCut AI.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/AI%20Image%20and%20Video%20Generations"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/AI%20Image%20and%20Video%20Generations"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
@@ -48,7 +48,7 @@ Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Vide
 
 Instagram carousel samples. Done in Canva.
 ### Visit this repository: 
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
@@ -56,7 +56,7 @@ Instagram carousel samples. Done in Canva.
 
 Samples. Made in Canva.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Flyers%20%26%20Brochures"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Flyers%20%26%20Brochures"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
@@ -64,7 +64,7 @@ Samples. Made in Canva.
 
 Instagram samples. Made in Canva.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Posts"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Posts"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
@@ -72,7 +72,7 @@ Instagram samples. Made in Canva.
 
 Made for affiliate marketing.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Brand%20AD%20or%20Marketing"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Brand%20AD%20or%20Marketing"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ### To check more of my work:
 
@@ -85,7 +85,7 @@ Made for affiliate marketing.
 
 These are done for my YouTube channel.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Green%20Screen%20Effects"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Green%20Screen%20Effects"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ### To check more of my work:
 
@@ -98,7 +98,7 @@ These are done for my YouTube channel.
 
 These were made for my own projects.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Logo%20or%20Branding%20Graphic%20Animation"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Logo%20or%20Branding%20Graphic%20Animation"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ### To check more of my work:
 
@@ -111,7 +111,7 @@ These were made for my own projects.
 
 These were made for my social media profiles.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Graphic%20Logo%20or%20Branding"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Graphic%20Logo%20or%20Branding"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
@@ -119,7 +119,7 @@ These were made for my social media profiles.
 
 These were made for my YouTube music channel.
 ### Visit this repository:
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Album%20Cover"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Album%20Cover"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
 ---
 
