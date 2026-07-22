@@ -14,16 +14,6 @@ https://youtube.com/shorts/YAQpdgvMe_I?si=5i83EyArem0rsDFa
 
 https://youtube.com/shorts/qA_LqrRFydk?si=ihTd30td1guz_LaE
 
-https://youtube.com/shorts/ew1o7Qjd02A?si=HMdU9XSBwaw0D9WY
-
-https://youtube.com/shorts/rdwEfuhycu4?si=PCwmHXtjMB1S2XDx
-
-https://youtube.com/shorts/-fVZYyfrqqI?si=4WN7k0esG_pHNtCT
-
-https://youtube.com/shorts/uz5icktZAig?si=bL6MRKU64FCnxfhx
-
-https://youtube.com/shorts/OPyOu9vzjyk?si=JHWj7KfnN0pegOzi
-
 <H2> Squad Busters Content: </H2>
 
 https://youtube.com/shorts/oNkFhmdj25Q?si=TWRuQGjnTAGVbubD
