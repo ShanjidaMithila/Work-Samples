@@ -36,7 +36,7 @@ Social media/News Cards or Tiles. Made by Canva.
 
 ---
 
-## 🤖 AI Image and Video Generations Pagination
+## 🤖 AI Image and Video Generations
 
 Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Video Creator, ChatGPT, Kling AI, Leonardo AI, Adobe Firefly, Canva AI and CapCut AI.
 ### Visit this repository:
