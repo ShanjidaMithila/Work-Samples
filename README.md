@@ -119,6 +119,8 @@ These were made for my social media profiles.
 
 These were made for my YouTube music channel.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Album%20Cover"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ---
 
 ## 🎬 YouTube Thumbnail
