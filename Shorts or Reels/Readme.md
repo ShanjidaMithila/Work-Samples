@@ -42,10 +42,8 @@
 
 • https://youtube.com/shorts/e_FUvQY2Me4?si=tyVxgIMyLwpZSxOQ
 
-• https://youtube.com/shorts/PC0TaEKh0hU?si=1Ts_pO7uspnImIyg
+* https://youtube.com/shorts/vxfhhD1w84Y?si=EbSRVAJlqYqdVqCz
 
-• https://youtube.com/shorts/vxfhhD1w84Y?si=EbSRVAJlqYqdVqCz
+* https://youtube.com/shorts/XawWoVoUrcU?si=0a9TH6YaiWUivSXu
 
-• https://youtube.com/shorts/XawWoVoUrcU?si=0a9TH6YaiWUivSXu
-
-• https://youtube.com/shorts/T20_9djkoI8?si=cxADlva8EAXfQG3h
+*https://youtube.com/shorts/T20_9djkoI8?si=cxADlva8EAXfQG3h
