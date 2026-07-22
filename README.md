@@ -45,7 +45,7 @@ Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Vide
 
 Instagram carousel samples. Done in Canva.
 ### Visit this repository: 
-<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="Click Here.gif" alt="Repository Button" width="80" align="center"></a>
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel"><img src="Click_Here.gif" alt="Repository Button" width="80" align="center"></a>
 
 ---
 
