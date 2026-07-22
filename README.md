@@ -72,6 +72,8 @@ Instagram samples. Made in Canva.
 
 Made for affiliate marketing.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Brand%20AD%20or%20Marketing"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ### To check more of my work:
 
 •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
