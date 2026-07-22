@@ -40,6 +40,7 @@ https://github.com/ShanjidaMithila/Work-Samples/tree/c3bc2a4c9b0ff44df182b6bcbe8
 Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Video Creator, ChatGPT, Sora AI, Kling AI, Leonardo AI, Adobe Firefly, Canva AI and CapCut AI.
 ### Visit this repository:
 <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/AI%20Image%20and%20Video%20Generations"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ---
 
 ## 📲 Instagram Carousel
