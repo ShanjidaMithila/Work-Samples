@@ -46,9 +46,9 @@ Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Vide
 Instagram carousel samples. Done in Canva.
 ### Visit this repository:
 
-<table border="2" style="background-color: lightblue;">
+<table border="2" >
   <tr>
-    <td>
+    <td style="background-color: lightblue; color: white;">
       <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Carousel" class="table-button">Click Here</a>
     </td>
   </tr>
