@@ -38,7 +38,7 @@ Social media/News Cards or Tiles. Made by Canva.
 
 ## 🤖 AI Image and Video Generations Pagination
 
-Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Video Creator, ChatGPT, Sora AI, Kling AI, Leonardo AI, Adobe Firefly, Canva AI and CapCut AI.
+Done these for my own projects. Used Dall.E, Gemini, Midjourney, Bing Image/Video Creator, ChatGPT, Kling AI, Leonardo AI, Adobe Firefly, Canva AI and CapCut AI.
 ### Visit this repository:
 <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/AI%20Image%20and%20Video%20Generations"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
 
@@ -70,14 +70,9 @@ Instagram samples. Made in Canva.
 
 ## 🎯 Brand Ad/Marketing
 
-Made for affiliate marketing.
+Made for affiliate marketing and UGC marketing.
 ### Visit this repository:
 <a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Brand%20AD%20or%20Marketing"><img src="https://github.com/soumadip20/Images-and-gif/blob/main/Click%20Here.gif" alt="Repository Button" width="160" align="center"></a>
-
-### To check more of my work:
-
-•https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
-•https://youtube.com/@memethila?si=kpZtNUbWSOARxDTS
 
 ---
 
@@ -90,7 +85,6 @@ These are done for my YouTube channel.
 ### To check more of my work:
 
 •https://youtube.com/@shanjidamithila?si=LglQFJ45WkwTSh_F
-•https://youtube.com/@memethila?si=kpZtNUbWSOARxDTS
 
 ---
 
