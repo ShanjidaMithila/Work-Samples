@@ -64,6 +64,8 @@ Samples. Made in Canva.
 
 Instagram samples. Made in Canva.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Instagram%20Posts"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ---
 
 ## 🎯 Brand Ad/Marketing
