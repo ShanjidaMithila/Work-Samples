@@ -127,4 +127,6 @@ These were made for my YouTube music channel.
 
 With these good thumbnails, I get very good clicks on my YouTube channel.
 ### Visit this repository:
+<a href="https://github.com/ShanjidaMithila/Work-Samples/tree/main/Youtube%20Thumbnail"><img src="Click Here.gif" alt="Repository Button" width="160" align="center"></a>
+
 ---
