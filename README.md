@@ -117,7 +117,7 @@ These were made for my YouTube music channel.
 
 ---
 
-## 🎬 YouTube Thumbnail
+## <img src="https://github.com/soumadip20/Images-and-gif/blob/main/YT.png" alt="YT Logo" width="500"> YouTube Thumbnail
 
 With these good thumbnails, I get very good clicks on my YouTube channel.
 ### Visit this repository:
